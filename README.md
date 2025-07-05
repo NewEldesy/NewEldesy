@@ -1,16 +1,16 @@
 <h1 align="center">Salut, moi c'est mister 👋</h1>
 
 <p align="center">
-  💻 Développeur full stack en devenir • ⚙️ Passionné d'ERP & d'automatisation • 📍Basé au Faso
+  💻 Développeur full stack • ⚙️ Passionné d'ERP & d'automatisation
 </p>
 
 ---
 
 ### 🚀 À propos de moi
 
-- 🎓 Étudiant en informatique, je forge mon chemin entre PHP natif, Laravel, Java EE & HL7 FHIR.
-- 🛠️ J’aime bâtir des apps utiles : ERP maison, générateurs réseau, applis de facturation…
-- 🧠 J'apprends vite, j'expérimente à fond, je n’ai pas peur du code legacy (même en PHP pur).
+- 🎓 Étudiant en informatique, je forge mon chemin entre PHP natif, Laravel, Java EE.
+- 🛠️ J’aime bâtir des apps utiles.
+- 🧠 J'apprends vite, j'expérimente à fond, je n’ai pas peur du code legacy.
 - 📈 Je veux créer des outils qui font gagner du temps et boostent l’efficacité des petites structures.
 
 ---
@@ -46,14 +46,8 @@
 
 ### 📫 Tu veux échanger ?
 
-- 💌 Contacte-moi sur [LinkedIn](https://linkedin.com/) ou via [ton moyen préféré ici]
+- 💌 Contacte-moi sur [LinkedIn](https://linkedin.com/](https://www.linkedin.com/in/ramel-makosso/))
 - 📂 Mon portfolio bientôt en ligne (spoiler : ça va claquer)
-
----
-
-### 🎯 Citation du moment
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
